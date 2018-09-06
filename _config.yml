@@ -1,55 +1,46 @@
+#
+###################################
 # Site wide configuration
+####################################
+#
+title: Leonids
+email:
+description: A simple and awesome blog theme powered by jekyll.
+url: # the base hostname & protocol for your site
+keywords: ["blog", "jekyll"]
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
-logo: site-logo.png
-search: true
-url: http://localhost:4000
-
+#
+###################################
 # Jekyll configuration
-
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: rouge
-sass:
-  sass_dir: _sass
-  style: compressed
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
 
 kramdown:
-  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..2
+  toc_levels: 1..6
   enable_coderay: false
 
-mathjax: true
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
-
-# Site owner
+#
+###################################
+# Site Owner configuration
+####################################
+#
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Leonids
+  avatar: leonids-logo.png
+  job: "A jekyll theme"
+  bio: "A simple and awesome blog theme powered by jekyll."
+  email:
   disqus-shortname:
   twitter: #username
   facebook: #username
-  github: #username
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
-  flickr: #username
-  tumblr: #username
-  pinterest: #username
-  weibo: #userid
   google:
     plus: #username
     analytics:
@@ -57,3 +48,24 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
+  github: #username
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: #username
+  skype: #username
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
