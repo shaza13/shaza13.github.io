@@ -14,5 +14,16 @@
 # Communications Coordinator
 - company: ZF Group
   position: IT Innovation Intern
-  duration:   Dec 2017  &mdash; May, 2018
+  duration:   Dec 2017  &mdash; May 2018
   summary: <ul class="resume-item-list"><li>Created algorithms to solve Traveling Salesman Problem using Python</li><li>Wrote documentation and setup guides for software</li>
+
+# Communications Coordinator
+- company: NCR Corporation
+  position: Big Data Analytics Intern
+  duration:   Aug 2017 &mdash; Dec 2017
+  summary: <ul class="resume-item-list"><li>Analyze and identify trends using Tableau</li><li>Create reports  using  Power BI and Microsoft Azure</li>
+
+- company: Girls Who Code
+  position: Lead Facilitator
+  duration:   Aug 2017 &mdash; PRESENT
+  summary: <ul class="resume-item-list"><li>Lead and facilitate coding lessons to 20 girls from 6th to 8th grade</li><li>Organize logistics and parent communications for each meeting </li>
