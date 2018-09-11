@@ -3,17 +3,16 @@
 - company: Google I/O Conference 2018
   position: Speaker & Video Subject
   duration: May 2018
-  summary: <ul class="resume-item-list"><li>Delivered a talk about my machine learning based side project to a group of 70 reporters  on Day 1 of I/O</li><li>Participated as the subject of a video shown at the Developer’s Keynote titled ‘Shaza’s Story’</li><li>https://youtu.be/rbZ4aLq4-Lg</li></ul>
+  summary: <ul class="resume-item-list"><li>Delivered a talk about my machine-learning based side project to a group of 70 reporters  on Day 1 of I/O</li><li>Participated as the subject of a video shown at the Developer’s Keynote titled ‘Shaza’s Story’</li><li><a href="https://youtu.be/rbZ4aLq4-Lg">link text</a></li></ul>
 
 # Director of Digital Stratgy
-- company: Google Computer Science Summer Institute
+- company: Google Atlanta Computer Science Summer Institute
   position: Program Participant
   duration:  July 2018
-  summary: <a href="url">link text</a>
-
+  summary: <ul class="resume-item-list"><li>Participated in an intensive programming institute learning web app development in HTML, CSS, Javascript, Python, and Google App Engine from Google Engineers. </li><li>Through the creation of various small projects,  used Python and HTML/CSS to program a recommendation engine based on user input.</li>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: ZF Group
+  position: IT Innovation Intern
+  duration:   Dec 2017  &mdash; May, 2018
+  summary: <ul class="resume-item-list"><li>Created algorithms to solve Traveling Salesman Problem using Python</li><li>Wrote documentation and setup guides for software</li>
