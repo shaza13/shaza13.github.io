@@ -1,10 +1,15 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Intel Award for Excellence in Computer Science
+  organization:
+  year: March 2018
+  summary:
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: 1st Place Poster
+  organization: Georgia Junior Science and Humanities Symposium
+  year: February 2018
+  summary:
+
+- award: 2nd Place in Systems Software
+  organization: Gwinnett County Science Fair
+  year: March 2018
+  summary:
