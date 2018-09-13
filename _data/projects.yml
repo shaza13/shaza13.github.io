@@ -21,3 +21,12 @@
   duration:
   # url: "#"
   description: <ul><li>A web app to recommend Netflix movies to a user depending on their mood and the occasion</li><li>Created as part of Google CSSI final showcase project using Python, HTML/CSS, Google App Engine, and TMDB API</li></ul>
+
+- url: "https://reut.tv/2LCbtCu"
+  description: Reuters Interview
+- url: "https://bit.ly/2Jfhpzg"
+  description: Google Blog Post
+  - url: "https://bit.ly/2LjhMio"
+    description: VCCircle Article
+  - url: "https://hypepotamus.com/news/agtech-industry-in-south/"
+    description: Hypepotamus Article
