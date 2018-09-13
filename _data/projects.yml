@@ -5,7 +5,7 @@
 - project: Machine Learning to Diagnose Skin Conditions
   role:
   duration:
-  # url: "#"
+  url: "https://drive.google.com/file/d/0B3c7TEspWTJsb2plLTRmczZMalVfTmR6a192VTloZGxuaEs0/view?usp=sharing"
   description: <ul><li>Conducted research on the efficacy of OpenCV, Tensorflow, Keras, and Matlab for image classification</li><li>Developed an application that successfully diagnosed type of skin condition 71% of the time</li><li>This research won 1st Place Poster at the Georgia Junior Science and Humanities Symposium and the Intel Award for Excellence in Computer Science</li><ul>
 
 
