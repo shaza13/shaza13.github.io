@@ -2,7 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: Machine Learning to Diagnose Skin Conditions
+  project: Machine Learning to Diagnose Skin Conditions
   #role:
   #duration:
   url: "https://drive.google.com/file/d/0B3c7TEspWTJsb2plLTRmczZMalVfTmR6a192VTloZGxuaEs0/view?usp=sharing"
@@ -10,13 +10,13 @@
 
 
 # Springfield Community Outreach Group
-- project: PlantMD- Visual Plant Disease Diagnosis App
+  project: PlantMD- Visual Plant Disease Diagnosis App
   #role:
   #duration:
   # url: "#"
   description: Used Tensorflow to create an Android application that can diagnose hundreds of plant diseases. This project was presented at the 2018 Google I/O Conference and featured in the Google Blog and Reuters TV.
 
-- project: Moodflix- Netflix Movie Recommendation Engine
+  project: Moodflix- Netflix Movie Recommendation Engine
   #role:
   #duration:
   # url: "#"
