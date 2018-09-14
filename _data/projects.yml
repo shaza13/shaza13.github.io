@@ -10,13 +10,13 @@
 
 
 # Springfield Community Outreach Group
-- project: PlantMD: Visual Plant Disease Diagnosis App
+- project: PlantMD- Visual Plant Disease Diagnosis App
   role:
   duration:
   # url: "#"
   description: <ul><li>Used Tensorflow to create an Android application that can diagnose hundreds plant diseases</li><li>This project was presented at the 2018 Google I/O Conference and featured in the Google Blog and Reuters TV.</li></ul>
 
-- project: Moodflix: Netflix Movie Reccomendation Engine
+- project: Moodflix- Netflix Movie Reccomendation Engine
   role:
   duration:
   # url: "#"
