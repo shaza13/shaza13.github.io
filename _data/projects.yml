@@ -3,30 +3,21 @@
 
 # jazznotes.io
 - project: Machine Learning to Diagnose Skin Conditions
-  role:
-  duration:
+  #role:
+  #duration:
   url: "https://drive.google.com/file/d/0B3c7TEspWTJsb2plLTRmczZMalVfTmR6a192VTloZGxuaEs0/view?usp=sharing"
   description: <ul><li>Conducted research on the efficacy of OpenCV, Tensorflow, Keras, and Matlab for image classification</li><li>Developed an application that successfully diagnosed type of skin condition 71% of the time</li><li>This research won 1st Place Poster at the Georgia Junior Science and Humanities Symposium and the Intel Award for Excellence in Computer Science</li><ul>
 
 
 # Springfield Community Outreach Group
 - project: PlantMD- Visual Plant Disease Diagnosis App
-  role:
-  duration:
+  #role:
+  #duration:
   # url: "#"
   description: <ul><li>Used Tensorflow to create an Android application that can diagnose hundreds plant diseases</li><li>This project was presented at the 2018 Google I/O Conference and featured in the Google Blog and Reuters TV.</li></ul>
 
 - project: Moodflix- Netflix Movie Reccomendation Engine
-  role:
-  duration:
+  #role:
+  #duration:
   # url: "#"
   description: <ul><li>A web app to recommend Netflix movies to a user depending on their mood and the occasion</li><li>Created as part of Google CSSI final showcase project using Python, HTML/CSS, Google App Engine, and TMDB API</li></ul>
-
-- url: "https://reut.tv/2LCbtCu"
-  description: Reuters Interview
-- url: "https://bit.ly/2Jfhpzg"
-  description: Google Blog Post
-- url: "https://bit.ly/2LjhMio"
-  description: VCCircle Article
-- url: "https://hypepotamus.com/news/agtech-industry-in-south/"
-  description: Hypepotamus Article
